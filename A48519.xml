@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Queen at Whitehall, on Wednesday, March 22, 1692 being the fourth Wednesday in Lent / by J. Lambe ...</title>
+            <author>Lambe, John, 1648 or 9-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48519</idno>
+            <idno type="STC">Wing L225</idno>
+            <idno type="STC">ESTC R17586</idno>
+            <idno type="EEBO-CITATION">12866385</idno>
+            <idno type="OCLC">ocm 12866385</idno>
+            <idno type="VID">94736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 985:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Queen at Whitehall, on Wednesday, March 22, 1692 being the fourth Wednesday in Lent / by J. Lambe ...</title>
+                  <author>Lambe, John, 1648 or 9-1708.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94736:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED Before the QUEEN AT WHITE-HALL, On <hi>Wedneſday, March</hi> 22. 1692. Being the Fourth <hi>Wedneſday</hi> in <hi>LENT.</hi>
+            </p>
+            <p>By <hi>J. LAMBE,</hi> Rector of <hi>Wheathamſtead</hi> in <hi>Hartfordſhire,</hi> and Chaplain in Ordinary to Their MAJESTIES.</p>
+            <p>
+               <hi>Publiſhed by Her Majeſty's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren</hi> for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:94736:2"/>
+            <pb n="5" facs="tcp:94736:2"/>
+            <head>A SERMON Preach'd before the QUEEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 PETER i. 4.</hi>
+                  </bibl>
+                  <p>Whereby are given unto us exceeding great and pre<g ref="char:EOLhyphen"/>cious promiſes, that by theſe ye might be parta<g ref="char:EOLhyphen"/>kers of the Divine Nature, having eſcaped the Corruption that is in the World through Luſt.</p>
+               </q>
+            </epigraph>
+            <p>THAT we may be Partakers of the Nature of God! why were we not always ſo? Was not this the Diſtincti<g ref="char:EOLhyphen"/>on, the Eſſential Difference of Man, That he was made <hi>in the Image, and after the Like<g ref="char:EOLhyphen"/>neſs of God?</hi> (Gen. 1.26.) And was not this I<g ref="char:EOLhyphen"/>mage of God, or the Freedom of our Choice,
+<pb n="6" facs="tcp:94736:3"/>the Holineſs of our Will, and all the Impreſſions of univerſal Righteouſneſs upon our Minds; were not theſe, I ſay, ſupported by Laws, and defended by ſuch Aſſiſtances as were ſufficient to preſerve them?</p>
+            <p>Whence is it then that Man, the only Being up<g ref="char:EOLhyphen"/>on Earth that underſtands himſelf, ſhould be al<g ref="char:EOLhyphen"/>ſo the only Being that Rebels againſt the Law of his Creation? That he of all the reſt ſhould Degenerate, and become the Contempt and Scorn of Nature?</p>
+            <p>What ſhall we ſay? Has Providence over<g ref="char:EOLhyphen"/>look'd us? Has God forgotten us? Has He neg<g ref="char:EOLhyphen"/>lected the moſt Excellent Part of the Viſible Cre<g ref="char:EOLhyphen"/>ation, for whoſe ſake the reſt were made, and ſuffered it to be Loſt? No ſurely! For <hi>His King<g ref="char:EOLhyphen"/>dom ruleth over all;</hi> and <hi>He upholdeth all things by the word of his Power,</hi> (Heb. 1.3.)</p>
+            <p>But <hi>Peccability,</hi> or that we may Chuſe amiſs, is implied in our Power of Chuſing; and this, this Liberty, by us abuſed, is the only Cauſe of our Miſery, our Shame, and Ruine.</p>
+            <p>For, notwithſtanding all the Advantages of in<g ref="char:EOLhyphen"/>ward Impreſſions, and outward Revelations, yet the Generality of Men, by a Conſtant Converſa<g ref="char:EOLhyphen"/>tion with Senſual Objects, deſtroy their Reaſon, and corrupt their Vertue, till their very Nature
+<pb n="7" facs="tcp:94736:3"/>is Changed, till they are ſunk and loſt in an In<g ref="char:EOLhyphen"/>feriour, Wretched, Brutal Life.</p>
+            <p>But God, <hi>who conſiders our frame, and remembers that we are but Men,</hi> (Pſal. 103.14.) looks down upon us with Compaſſion, Invites us to return to our ſelves again, to our primitive Integrity, to all the Beauty of our firſt Creation; and encou<g ref="char:EOLhyphen"/>rages our Endeavours by the Manifeſtation of Himſelf, His <hi>Power and Glory to us,</hi> (ver. 2.) by Additional Rewards, by <hi>exceeding great</hi> and <hi>preci<g ref="char:EOLhyphen"/>ous Promiſes</hi> in the Goſpel of His Son. <hi>Whereby,</hi> (or <hi>by whom</hi>) <hi>are given unto us exceeding great and precious Promiſes, That by theſe,</hi> (by the Power and Efficacy of theſe upon our Minds) <hi>we may be partakers of the Divine Nature, having eſcaped the Corruption that is in the World through Luſt.</hi>
+            </p>
+            <p>Upon which Words, that I may diſcourſe with the greater Plainneſs and Advantage, I ſhall en<g ref="char:EOLhyphen"/>deavour to reduce their Senſe, their whole Inten<g ref="char:EOLhyphen"/>tion, into theſe following Propoſitions.</p>
+            <list>
+               <item>1. Firſt, <hi>That the Chief Deſign of the Goſpel of, our Saviour is, to make us Partakers of the Nature of God.</hi>
+               </item>
+               <item>II. Secondly, <hi>That the only Means to attain this End, or the only Way to partake of the Nature of God, is to eſcape the Corruptions of the World, through Luſt.</hi>
+               </item>
+               <pb n="8" facs="tcp:94736:4"/>
+               <item>III. Thirdly and Laſtly, <hi>That thoſe exceeding great and precious Promiſes, which this moſt Holy Go<g ref="char:EOLhyphen"/>ſpel hath aſſured to all who comply with its Deſign, are a ſufficient Motive to us, to ſtrive with all our Heart, to eſcape the Corruptions of the World, that we may partake of the Nature of God.</hi>
+               </item>
+            </list>
+            <p>I begin with the Firſt of theſe, <hi>viz.</hi>
+            </p>
+            <p n="1">1. <hi>That the Chief Deſign of the Goſpel of our Sa<g ref="char:EOLhyphen"/>viour is, to make us Partakers of the Nature of God. Whereby are given unto us exceeding great and pre<g ref="char:EOLhyphen"/>cious Promiſes, that by theſe,</hi> (or for this End, and to this Intent, that,) <hi>We may partake of the Divine Nature.</hi> That being provoked by a firm Belief, and a ſtedfaſt Expectation of theſe Rewards, we may aſpire with all our Heart, after a Participa<g ref="char:EOLhyphen"/>tion of the Nature of God.</p>
+            <p>And for the Clearer Demonſtration of this moſt uſeful Truth, I ſhall briefly proceed in this fol<g ref="char:EOLhyphen"/>lowing Method.</p>
+            <list>
+               <item>1. Firſt, <hi>I ſhall take a view of the Nature of God in general, as far as it falls under our Con<g ref="char:EOLhyphen"/>ception.</hi>
+               </item>
+               <item>2. Secondly, <hi>I ſhall conſider in what Senſe, and under what Limitations, we Frail and Mortal Men may be ſaid to partake of the Nature of God<g ref="char:punc">▪</g>
+                  </hi>
+               </item>
+               <pb n="9" facs="tcp:94736:4"/>
+               <item>3. Thirdly, and Laſtly, <hi>I ſhall endeavour to make it manifeſt, That thus to partake of the Nature of God, according to our Capacity, is the <g ref="char:V">Ʋ</g>ltimate End, and the Chief Deſign of the Chriſtian Inſti<g ref="char:EOLhyphen"/>tution.</hi>
+               </item>
+            </list>
+            <p n="1">1. Firſt, <hi>I ſhall take a view of the Nature of God in general, as far as it falls under our Con<g ref="char:EOLhyphen"/>ception.</hi>
+            </p>
+            <p>It is true indeed, the Divine <hi>Hypoſtaſis,</hi> or the naked Eſſence of God, is far above out of our Reach; the more we pry into it, the more we ſhall be ſenſible of our Ignorance, our Vanity, and Raſhneſs. We may Confound and Tire our Reaſon, but ſhall never Maſter and Subdue the Object. There is no Proportion between the No<g ref="char:EOLhyphen"/>tion and the Faculty. No bounded Underſtand<g ref="char:EOLhyphen"/>ing can lay hold upon Infinity; no Created Be<g ref="char:EOLhyphen"/>ing can trace the Footſteps of Eternal Ages, or fix his Thoughts upon a vaſt Immenſity, without Repulſe, without Confuſion. And therefore in our Contemplation of God, the firſt Diſtinct, and Clear Conception that we frame, is this, That He is <hi>Incomprehenſible.</hi>
+            </p>
+            <p>But however, though our Mind is unequal to the Attributes of God; though we cannot con<g ref="char:EOLhyphen"/>tain or enjoy them, in their Infinite Degrees; yet by thoſe little Glimmerings of Reaſon, by
+<pb n="10" facs="tcp:94736:5"/>thoſe Powers of inferring one thing from ano<g ref="char:EOLhyphen"/>ther, which we find in our ſelves, we certainly Know, in general, that He who is the Spring, the Principle, and Original of all Exiſtence, from whom they derive, and in whom they reſolve, is Himſelf endued with all Poſſibilities of Happi<g ref="char:EOLhyphen"/>neſs and Perfection. For what can be hid from His Knowledge, or kept from his Poſſeſſion, who is the Cauſe of <hi>All</hi> things?</p>
+            <p>God therefore is but One, Exiſting of Him<g ref="char:EOLhyphen"/>ſelf, intirely Independent, and under no Con<g ref="char:EOLhyphen"/>troul; His Being is Unchangeable, his Know<g ref="char:EOLhyphen"/>ledge is Infinite, and his Duration is Eternal: He fills all Places with his Preſence, and over<g ref="char:EOLhyphen"/>rules all ſecond Cauſes by an Almighty Power. His Will is always Pure and Holy, as it is Ab<g ref="char:EOLhyphen"/>ſolute and Free, determined to the beſt and wi<g ref="char:EOLhyphen"/>ſeſt Ends, and managed by the moſt perfect Wiſ<g ref="char:EOLhyphen"/>dom, Juſtice, Truth, and Goodneſs. His De<g ref="char:EOLhyphen"/>crees are Uncontroulable, the beſt in their De<g ref="char:EOLhyphen"/>ſign, certain in their Event, without Poſſibility of ill Succeſs.</p>
+            <p>Theſe, and all things elſe that are better than their Contraries, are bound up in, and Inſepara<g ref="char:EOLhyphen"/>ble from the Notion of God, who is Infinite in all Perfections.</p>
+            <pb n="11" facs="tcp:94736:5"/>
+            <p n="2">2. But if this be the Nature of God, <hi>How is it poſſible for us, poor, bounded, ſinful, frail and mortal Men, to become Partakers of it?</hi> And this is the Second Thing to be Conſidered.</p>
+            <p>And by the Account which has been given of the Nature of God, it appears, That ſome of his Attributes are ſo Abſolute a Property, ſo Eſſen<g ref="char:EOLhyphen"/>tial to the Deity, that they cannot be Imparted: They Exiſt intirely and ſolely in Himſelf.</p>
+            <p>That more than One ſhould be ONE, or Firſt, or Self-exiſtent, the Cauſe of all things, Infinite, or Immenſe, is a Contradiction. Theſe, and ſome others, admit of no Degrees, and are there<g ref="char:EOLhyphen"/>fore Incommunicable.</p>
+            <p>But however, there is ſomething of God in the very Nature of Man, Eſſential to us, and In<g ref="char:EOLhyphen"/>ſeparable from us, which no other Part of the Viſible World can boaſt of.</p>
+            <p>For we move from our ſelves, in ſome degree, as God does; we act for the ſake of ſuch Ends, as we our ſelves propoſe. We Reaſon, Judge, Reflect, and are truly ſtyled a Conſcious Being. We penetrate the Dimenſions of our Little World, and our Soul is preſent every where within her Bounds. And thus the humane Nature Reſem<g ref="char:EOLhyphen"/>bles the Divine;</p>
+            <p>
+               <hi>Exemplum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Dei quiſquis eſt in Imagine parva.</hi>
+               <pb n="12" facs="tcp:94736:6"/>But this Aſſimilation is neceſſary, it is Inſepa<g ref="char:EOLhyphen"/>rable from our Nature, and therefore cannot be the Subject-matter of a Law. Wherefore then, by a Participation of the Nature of God, when it is urged upon us as a Duty, or propoſed as a worthy End, we underſtand a faint Reſemblance, an imperfect Imitation of thoſe Divine Perfecti<g ref="char:EOLhyphen"/>ons, which are Abſolute only in God, but yet are Competent in a Good Degree to all his Rea<g ref="char:EOLhyphen"/>ſonable Creatures; <hi>Competent,</hi> I ſay, not Neceſſa<g ref="char:EOLhyphen"/>ry, or Eſſential to us: for then there would have been no Room for Choice or Vertue.</p>
+            <p>And thus, if we had not been wanting to our ſelves, we might have preſerved, and, by the Grace of God, we may yet recover a fair Pro<g ref="char:EOLhyphen"/>portion of the Purity of His Mind, and the Ho<g ref="char:EOLhyphen"/>lineſs of his Will; of his Wiſdom and Provi<g ref="char:EOLhyphen"/>dence, of His Mercy and Juſtice, of His Truth and Goodneſs, with which our Nature was en<g ref="char:EOLhyphen"/>nobled, and from which we ſo unhappily fell.</p>
+            <p>And this is the Participation of the Nature of God, which is made our Duty in the Text; It is the Imitation of thoſe moſt Excellent Rules, by which he Governs the Freedom of his Choice, and Exerciſes His vaſt, unbounded Power.</p>
+            <pb n="13" facs="tcp:94736:6"/>
+            <p>It is a good degree of that Univerſal Righte<g ref="char:EOLhyphen"/>ouſneſs, which directs the Diſpenſations of His Providence, and knits them all together into the moſt Excellent Order and Agreement. And thus 'tis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Participation of the Diſpoſition of God, an Imitation of His Way, and manner of acting. It is to govern our ſelves in our narrow Sphere of Action, and in all Re<g ref="char:EOLhyphen"/>lations, according to His Example and Command. It is to ſubdue our Will to His, our <hi>Inclinations</hi> and Imperfect Reaſonings, to His moſt perfect Methods of proceeding.</p>
+            <p>For it is not only to do what He Commands, but to Preferr it, to Love and Chuſe our Duty; to be united to it, and in our Proportion and Capa<g ref="char:EOLhyphen"/>city, to <hi>be</hi> what the Law Requires. To act by the ſame Principle , to move by the ſame Spirit, to entertain the ſame Opinions of what is Good and Evil, and in every thing to Conform our ſelves to his moſt perfect Reaſon. This is to partake of the Nature of God.</p>
+            <p>And, according to this Account, it is expreſſed in Scripture, by His <hi>Image, and His Likeneſs,</hi> (Gen. 1.26.) and this Image of God upon our Souls, is explained by <hi>Knowledge,</hi> (Col. 3.10.) By <hi>Holi<g ref="char:EOLhyphen"/>neſs of Life,</hi> (Epheſ. 4.24.) By the <hi>Mind</hi> and Diſpoſition of <hi>God,</hi> (Phil. 2.5.) And, finally, <hi>To
+<pb n="14" facs="tcp:94736:7"/>abide in the Father, and in the Son, is to abide in</hi> the Practice of <hi>that which they had heard, and had been taught from the Beginning,</hi> (1 John 2.24.)</p>
+            <p>And as for thoſe places of Scripture, which denote a more Myſterious Union between the Souls of pious Men, and God, they are not un<g ref="char:EOLhyphen"/>derſtood as Declarations of our Duty, ſimply; but rather as the Rewards of a great Affection, and a zealous Vertue; or of thoſe Divine Delights and Pleaſures, which will fill the Minds of thoſe who thus unite themſelves to God. That is the Second.</p>
+            <p n="3">3. I proceed to the Third and Laſt Particu<g ref="char:EOLhyphen"/>lar, and ſhall endeavour to make it Manifeſt, <hi>That thus to partake of the Nature of God, ac<g ref="char:EOLhyphen"/>cording to our Capacity, is the <g ref="char:V">Ʋ</g>ltimate End, and the Chief Deſign of the Chriſtian Inſtitution. Whereby are given unto u exceeding great and precious Promi<g ref="char:EOLhyphen"/>ſes, that,</hi> (or for this End that) <hi>by theſe,</hi> (by the mighty force of ſo great Rewards) <hi>we may be Par<g ref="char:EOLhyphen"/>takers of the Divine Nature.</hi>
+            </p>
+            <p>The Religion then it ſelf, is a Body of Princi<g ref="char:EOLhyphen"/>ples, and Rules of Life, for the Reſtoration of our Nature to a Participation of the Nature of God. And the Promiſes annexed, are made ſub<g ref="char:EOLhyphen"/>ſervient to this, as to their Laſt Deſign: <hi>That by theſe we may be Partakers of the Nature of God.</hi>
+            </p>
+            <pb n="15" facs="tcp:94736:7"/>
+            <p>It was the Loſs of our firſt Integrity, by un<g ref="char:EOLhyphen"/>reaſonable Will, and vicious Appetites; It was our falling ſhort of the <hi>Glory,</hi> and defacing the <hi>Image of God</hi> upon our Souls, which was the Oc<g ref="char:EOLhyphen"/>caſion of our Saviour's Manifeſtation in the World, That He, <hi>the Seed of the Woman, might break the Serpent's head,</hi> (Gen. 3.15.) That by Him our Loſs might be repaired, our Bruiſes healed, and our Decayes recovered.</p>
+            <p>There can be therefore no Diſpute, but His de<g ref="char:EOLhyphen"/>ſign is to deſtroy thoſe Wicked and Ungodly Ha<g ref="char:EOLhyphen"/>bits, in which our Miſery Conſiſts, and to re<g ref="char:EOLhyphen"/>ſtore us to the Government of our Reaſon, and the <hi>Image of God</hi> again, which was our Original. Felicity.</p>
+            <p>The Goſpel of our Saviour is <hi>Salvation,</hi> Health, and Redemption to Mankind; but we are not capable of <hi>Salvation</hi> any other way, but by the Re<g ref="char:EOLhyphen"/>formation of our Manners, and the Raiſing of our Nature out of that Degenerate Condition it is in, to a Conformity with the Life of God.</p>
+            <p>For we cannot be happy but in the way of our Nature. And therefore if our Saviour had redeemed us from the Guilt and Puniſhment of our Sins, and not from our Iniquity, (which can<g ref="char:EOLhyphen"/>not be ſuppoſed) yet even this would have been no great Advantage; It could not properly be
+<pb n="16" facs="tcp:94736:8"/>called, <hi>the bringing of Salvation to us;</hi> Becauſe we ſhould have been the ſame Imperfect, Wretch<g ref="char:EOLhyphen"/>ed Beings ſtill, that we were before.</p>
+            <p>Thus Reaſon will perſwade, That to <hi>ſave</hi> a Man, is to reſtore him to the Perfection of His Nature.</p>
+            <p>But why ſhould we Conſider the Probability of the thing in reaſon, when the Religion it ſelf declares its own deſign ſo plainly, That it is Im<g ref="char:EOLhyphen"/>poſſible we ſhould miſtake it.</p>
+            <p n="1">(1.) For the Prophets of old, many Ages be<g ref="char:EOLhyphen"/>fore it was revealed, have repreſented it, as a <hi>Law of Righteouſneſs, that ſhould be ſeated in the inward parts, and purifie its Proſelytes from all their filth,</hi> (Jer. 31.33.) Dan. 9.24.)</p>
+            <p n="2">(2.) And no ſooner had our Saviour Himſelf begun to inſtruct the People in His Religion, but He lays down this as His Firſt, His Fundamen<g ref="char:EOLhyphen"/>tal Principle, <hi>Except a man be born again he cannot ſee the Kingdom of God,</hi> St. John 3.3. and <hi>Verſe</hi> 7. <hi>Marvel not that I ſay unto you,</hi> (your Nature muſt be changed,) <hi>ye muſt be born again.</hi>
+            </p>
+            <p n="3">(3.) And if we look into the Religion it ſelf, what are all, or at leaſt the greater Number of, the Duties there required, but ſo many ſeveral Parts of the <hi>Image of God</hi> which we have Loſt? Are they not the Diſpoſitions of His Mind, the
+<pb n="17" facs="tcp:94736:8"/>Attributes of His Will, and the Methods of His Providence, that, by the Practice of them, we may be <hi>perfect as our Heavenly Father is perfect,</hi> (St. Matth. 5. <hi>ult.</hi>)</p>
+            <p n="4">(4.) And are not the Apoſtles particularly care<g ref="char:EOLhyphen"/>ful to inſtill this Principle into us, not only in the Text, but every where throughout their Epiſtles, that, <hi>For this purpoſe the Son of God was manifeſt<g ref="char:EOLhyphen"/>ed, that he might deſtroy the Works of the Devil?</hi> (1 John 3.8.) That <hi>this is the Will of God,</hi> this is the great deſign of the Goſpel, <hi>even your San<g ref="char:EOLhyphen"/>ctification?</hi> (1 Theſ. 4.3.)</p>
+            <p>Do they not reſolve the Subſtance of Chriſtia<g ref="char:EOLhyphen"/>nity into this, That we <hi>be followers of God,</hi> (Eph. 5.1.) That we <hi>be Holy as God is Holy,</hi> (1 Pet. 1.20.) That <hi>if we have heard Him, and learn'd Him, as the truth is in Jeſus, we ſhall put off the Old Man, which is Corrupt, and be renewed,</hi> transformed, <hi>in the Spirit of our Mind; and put on the New Man, which is Created after God in Righteouſneſs, and Holi<g ref="char:EOLhyphen"/>neſs of Life?</hi> (Epheſ. 4.24.)</p>
+            <p n="5">(5.) And are not all true Chriſtians, who have reſigned themſelves to the Direction of their Re<g ref="char:EOLhyphen"/>ligion, are they not ſaid to be <hi>new Created?</hi> (Eph. 2.16.) <hi>To be new Begotten?</hi> (1 Joh. 5.18.) To be <hi>Joyned to the Lord, Adopted</hi> into <hi>His Family,</hi> and
+<pb n="18" facs="tcp:94736:9"/>
+               <hi>to become his Children?</hi> (1 Cor. 6.17.) Joh. 17.24. Rom. 8.16.)</p>
+            <p>This then is the ſpecific Difference of Chriſti<g ref="char:EOLhyphen"/>anity, that it rectifies our Nature, <hi>and cleanſes us throughout, in Body, Soul, and Spirit.</hi>
+            </p>
+            <p>And therefore if we are not thus renewed in Every Point, we may aſſume the Name, but, in truth, We are not Chriſtians. <hi>For the Foundation of God,</hi> ſays the Apoſtle, <hi>ſtandeth ſure, and has this Seal, Let every one that nameth the Name of Chriſt, depart from Iniquity,</hi> (2 Tim. 2.19.)</p>
+            <p>He then, upon whom the Goſpel has not this Effect, He whoſe Nature is not changed, and whoſe Mind is not renewed, is not upon this <hi>Foundation.</hi> He is in the ſame Condition, at the preſent, as He would have been, if our Saviour never had appeared. For He is a Saviour only to thoſe who obey Him, (<hi>Heb.</hi> 10.)</p>
+            <p>And thus it appears, That the End of the Promiſes, and of all that our Saviour did and taught, is this, <hi>That we may be Partakers of the Nature of God.</hi> And this is the Firſt, and the Principal Aſſertion in the Text.</p>
+            <pb n="19" facs="tcp:94736:9"/>
+            <p>I proceed to the Conſideration of the Second; namely this: <hi>viz.</hi>
+            </p>
+            <p n="2">II. Secondly, <hi>That the only Means to attain this End, or the only Way to partake of the Nature of God, is, to eſcape the Corruptions that are in the World, thro Luſt. Having Eſcaped, or by the means of Eſca<g ref="char:EOLhyphen"/>ping, the Corruptions of the World, we may be Par<g ref="char:EOLhyphen"/>takers of the Divine Nature.</hi> This is the plain Conſtruction of the Words, and thus much they Import, at leaſt; That the Corruptions of the World, and the Nature of God, are Incompati<g ref="char:EOLhyphen"/>ble; that they cannot ſubſiſt in the ſame Sub<g ref="char:EOLhyphen"/>ject; that we muſt be free from the one, before we can attain the other: That unleſs we Eſcape the Corruptions of the World, we cannot, but if we do Eſcape them, we ſhall attain, by the Grace of God, to a Participation of His Na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>By <hi>the World,</hi> we underſtand, The Pleaſures and Allurements of it; or thoſe Grateful Satisfacti<g ref="char:EOLhyphen"/>ons that it yields to our Inferiour, Senſual De<g ref="char:EOLhyphen"/>ſires.</p>
+            <pb n="20" facs="tcp:94736:10"/>
+            <p>By <hi>the Corruptions of the World,</hi> we underſtand, Thoſe vicious and deſtructive Habits, which we have brought upon our ſelves, by an Over-value, and an Inordinate Enjoyment of it. Or thoſe ill Effects, which theſe Terrene and Senſual Plea<g ref="char:EOLhyphen"/>ſures have had upon us, in that they have impo<g ref="char:EOLhyphen"/>ſed upon our Reaſon, Corrupted our Integrity, and Depraved our Nature.</p>
+            <p>The Soundneſs of the Mind conſiſts in this, That we preſerve the Authority of our Reaſon, that we Judge, and Chuſe, and Love, and En<g ref="char:EOLhyphen"/>joy, according to the Value of the Object, the Nature of the Thing, and the Command of God. That all our Faculties fulfill their End, and per<g ref="char:EOLhyphen"/>fect their Deſign; That we gratifie all our Genu<g ref="char:EOLhyphen"/>ine Deſires, and improve in all our Intereſts.</p>
+            <p>But to exceed theſe Meaſures, to neglect our greateſt Good, to make no uſe of our Nobleſt Powers, to ſtarve our Beſt Capacities, on the one hand; and to load and nauſeate our Inferior Ap<g ref="char:EOLhyphen"/>petites, on the other; to be governed by them, and reſolved into them, is the Depravity, the <hi>Corruption</hi> of a Reaſonable Creature. The Hu<g ref="char:EOLhyphen"/>mane Nature, or our Powers of Judging truly, of Loving wiſely, and of Acting freely, are de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+            <pb n="21" facs="tcp:94736:10"/>
+            <p>So that all the ſeveral Inſtances of ſenſual and worldly Pleaſures, that overcome our Reaſon, and gain a <hi>Dominion over us,</hi> are ſtyled in the Text, by an eaſie Metaphor, <hi>The Corruption that is in the World, through Luſt,</hi> or through the Pow<g ref="char:EOLhyphen"/>er of Inordinate Deſire.</p>
+            <p>Wherefore then, to <hi>Eſcape</hi> the Corruptions of the World, is to Rectifie our Judgment, and Re<g ref="char:EOLhyphen"/>form our Manners; to Change our Affections, and Flee from all the Baits and Opportunities of Vicious Actions. To recede from all our former Notions of our Happineſs, and from all our Con<g ref="char:EOLhyphen"/>ſequent Affections, Deſires, and Courſe of Life; and attain to another Senſe of things, to a Right Opinion, to Suitable Deſires; to a Chearful Will, and Vigorous Endeavours, Informed and Govern<g ref="char:EOLhyphen"/>ned by the Will of God. It is to recover the True, the Natural, and the Perfect Temper of our Minds, which is corrupted by the Pleaſures of the World; and to enjoy thoſe Pleaſures, for the time to come, in ſuch Degrees and Meaſures, as may conſiſt with the Laws of Reaſon, and the Safety of all our Intereſts.</p>
+            <p>And though it is not poſſible for us, to pre<g ref="char:EOLhyphen"/>ſerve our ſelves in a Continued Courſe, of per<g ref="char:EOLhyphen"/>fect Health. Though we cannot keep the Ba<g ref="char:EOLhyphen"/>lance
+<pb n="22" facs="tcp:94736:11"/>always, and exactly, even between the Soul and the Body, in this Imperfect State; Yet we may attain to a perfect Soundneſs both of Judg<g ref="char:EOLhyphen"/>ment and Affection. We may Reſolve our Hap<g ref="char:EOLhyphen"/>pineſs into our Duty; we may both underſtand and hate the turpitude of Vice; We may frame a ſteady Reſolution to Eſcape it; We may always ſtand upon our Guard; And whenſoever we are Polluted, (<hi>For in many things we all offend,</hi>) we may Cleanſe our ſelves, as ſoon as we diſcern it, by a true Repentance. This is to <hi>Eſcape the Cor<g ref="char:EOLhyphen"/>ruptions of the World,</hi> according to the Meaſure and Capacity of a Man.</p>
+            <p>And that thus to <hi>Eſcape the Corruptions of the World,</hi> is the only way <hi>to become Partakers of the Nature of God,</hi> is evident beyond Exception.</p>
+            <p>For a State of Bondage to the Corruptions of the World, is the Senſual, the Brutal Nature, that purſues the preſent Appetite without Re<g ref="char:EOLhyphen"/>ſpect. It is directly contrary to the Laws of Reaſon, or the Nature of God, and is therefore inconſiſtent with it.</p>
+            <p>But to Aſſert our Liberty, to Eſcape from under their Dominion, to throw off all thoſe evil Habits, which we have ſuperinduced up<g ref="char:EOLhyphen"/>on our ſelves, will raiſe our Minds again, and
+<pb n="23" facs="tcp:94736:11"/>reſtore us to the ſame Condition we were in before.</p>
+            <p>A Participation of the Nature of God, is our Firſt, and Perfect Temper; This we Corrupted by the Pleaſures of the World; But <hi>if</hi> we <hi>Eſcape the Corruptions of the World,</hi> we recover our ſelves again, and are, <hi>ipſo facto,</hi> re-inveſted in the Nature of God. We return of Courſe, to all the Pleaſures and Advantages of our former State.</p>
+            <p>And thus it appears, <hi>That the only way to be<g ref="char:EOLhyphen"/>come Partakers of the Nature of God, is, to Eſcape the Corruption that is in the World, through Luſt.</hi> And this is the Second Propoſition.</p>
+            <p>I proceed, but very briefly, to the Third and Laſt, <hi>viz.</hi>
+            </p>
+            <p n="3">III. <hi>That thoſe exceeding great and precious Pro<g ref="char:EOLhyphen"/>miſes, which are Aſſured to all who comply with the Deſign of the Goſpel, and become Partakers of the Nature of God, are a ſufficient Motive to us, to uſe the Means, which are preſcribed, or, to Eſcape the Corruptions of the World.</hi> Or,</p>
+            <p>That the Rewards Propoſed are a Reaſonable Inducement, as well to purſue the End it ſelf, as
+<pb n="24" facs="tcp:94736:12"/>to uſe the Means in order to it; <hi>That Eſcaping the Corruptions of the World, we may partake of the Nature of God.</hi>
+            </p>
+            <p>The Poſſeſſions, the Glories, and the Pleaſures of the World, are ſo Exceeding grateful to Corrupt<g ref="char:EOLhyphen"/>ed Appetites, and ſo Conducive to our Miſtaken Intereſts, that they prejudice our Minds, and ſtop our Ears, againſt the Juſt Advice of thoſe who would perſwade us, That our Senſe is Vitiated, and our Pleaſures are Deceitful; that they are Miſchievous to us at the preſent, and will be Fa<g ref="char:EOLhyphen"/>tal in the Iſſue.</p>
+            <p>And therefore nothing leſs, than a poſitive Command, back'd with the Sanction of the ſeve<g ref="char:EOLhyphen"/>reſt Puniſhment, and the Promiſe of a great Re<g ref="char:EOLhyphen"/>ward; of Pleaſures far ſuperiour to thoſe we now enjoy, ſuppoſing they were indeed, what they ſeem to us, will ever reduce us to a ſober Senſe, or perſwade us to deny our ſelves, and <hi>Eſcape the Corruptions of the World.</hi>
+            </p>
+            <p>But ſuch are the Promiſes annexed to the Reli<g ref="char:EOLhyphen"/>gion of our Saviour, they are <hi>ſo Great, ſo Ex<g ref="char:EOLhyphen"/>ceeding precious,</hi> that they ought to carry all be<g ref="char:EOLhyphen"/>fore them. There is nothing can compare with them, and therefore, if we have any Senſe, we ſhall forbear, or do, or ſuffer any thing, that we may attain them.</p>
+            <pb n="25" facs="tcp:94736:12"/>
+            <p>Let us but conſider what they are, and how they ſupport their Character, and we ſhall be forced to grant, That the Motive is Irreſiſti<g ref="char:EOLhyphen"/>ble.</p>
+            <p>From the very moment then, that <hi>we Eſcape the Corruptions of the World,</hi> we enter upon ano<g ref="char:EOLhyphen"/>ther, and a better Life; upon a State of the moſt perfect Happineſs, which ſhall Improve upon us, and Continue to Eternity.</p>
+            <p>It is perfected, indeed, in Heaven, but it be<g ref="char:EOLhyphen"/>gins on Earth, and we ſhall feel the mighty Ad<g ref="char:EOLhyphen"/>vantages of the Change, even in this Imperfect State.</p>
+            <p>For now our Nature is reſtored, our Infirmities are healed, and our Sins are pardoned; our <hi>Souls are now refreſhed,</hi> our Conſcience is at Eaſe, our Minds are raiſed, and <hi>we may come with Boldneſs to the Throne of Grace,</hi> (Matth. 11. <hi>ult.</hi>) Epheſ. 3.12.) An humble Confidence, and a <hi>perfect</hi> Love ſhall baniſh all our <hi>Fears,</hi> (1 John. 4.18.)</p>
+            <p>We now ſhall <hi>paſs from one degree of Grace un<g ref="char:EOLhyphen"/>to another, till we come to the fulneſs of the Stature of Chriſt; till we are ſettled in a Bleſſed Hope; till our Aſſurance ſhall be full,</hi> (Heb. 6.11.) Epheſ. 4.13.)</p>
+            <pb n="26" facs="tcp:94736:13"/>
+            <p>Now we ſhall be under the Protection of the Holy Spirit; He ſhall direct and guide us through all the Dangers of This preſent Life; prevent Temptations, aſſiſt us in them, and find out a <hi>way for our Eſcape,</hi> (John 16. 1 Cor. 10.13.)</p>
+            <p>Whatſoever we need ſhall be ſupplied; <hi>what<g ref="char:EOLhyphen"/>ſoever we ask we ſhall receive,</hi> (Mat. 7. Luk. 11.9.) whatſoever we are capable of receiving, we ſhall Enjoy. For we are united now to God Himſelf, (<hi>John</hi> 10.35.) We are <hi>his Temples,</hi> His peculiar place of Reſidence, (1 <hi>Cor.</hi> 3.17.) But oh! what ſenſible Touches of Unſpeakable Pleaſures; what Reſolution, what Alacrity of Spirit, what Ecſta<g ref="char:EOLhyphen"/>ſies of Joy, what Irradiations of Love, muſt needs ariſe from ſuch a Preſence of God upon the Mind! What a perfect Contentation in Life; what Hope, what Chearfulneſs in Death!</p>
+            <p>For, indeed, to <hi>Die is Gain,</hi> (Phil. 1.21.) it is an Improvement ſtill of the Life of God. It brings us to the <hi>Euge, bone Serve! Well done, good and faithful Servant, enter thou into the Joy of thy Lord,</hi> (St. Mat. 25.21.) Into thoſe Inexpreſſible Joys, which <hi>Eye hath never ſeen, nor ear has heard, nor can it enter into the heart of man to conceive,</hi> (1 Cor. 2.9.) For now <hi>we ſhall be cloathed upon with Immor<g ref="char:EOLhyphen"/>tality,</hi> (2 Cor. 5.2.) and poſſeſſed of <hi>an exceeding weight of Glory,</hi> (2 Cor. 4.17.)</p>
+            <pb n="27" facs="tcp:94736:13"/>
+            <p>Now ſhall all our Faculties be inlarged, and filled; for <hi>we ſhall ſee him as he is, and know even as we are known,</hi> (1 John 3.2.</p>
+            <p>Have we ſhall converſe for ever with the Ho<g ref="char:EOLhyphen"/>ly Angels, with the Pure and Immaculate Spirits of the Juſt, (<hi>Heb.</hi> 12.23.) Nay, with God Him<g ref="char:EOLhyphen"/>ſelf, and our Bleſſed Saviour, (St. <hi>John</hi> 17.) Thier <hi>Glories</hi> ſhall be now <hi>revealed;</hi> Their Brightneſs ſhall encompaſs us, and the Returns of our Love and Adoration of them ſhall tranſport us; <hi>in whoſe preſence there is fulneſs of joy, and at whoſe right hand there are pleaſures for evermore,</hi> (Pſal. 16.11.)</p>
+            <p>Theſe then are <hi>exceeding great and precious Pro<g ref="char:EOLhyphen"/>miſes;</hi> they are the <hi>Summum Genus,</hi> they are Ab<g ref="char:EOLhyphen"/>ſolute and Perfect; they are capable of no Im<g ref="char:EOLhyphen"/>provement, nothing can be added to them, that can ſet a greater Value upon them.</p>
+            <p>For are not all things precious, according as they approach to the Nature of God, from whom all Beauty and Goodneſs is derived? But are not all theſe Promiſes <hi>Divine?</hi> Do they not aſſure us of an Everlaſting Union and Communion with Himſelf? (<hi>John</hi> 10.30.17.22.) But ſurely there is a great deal more implied in this, than we are able ſo much as to conceive.</p>
+            <pb n="28" facs="tcp:94736:14"/>
+            <p>For why ſhould the Unity of our Souls with God, be expreſſed in Scripture, by the Unity of the <hi>Head and Members,</hi> (Col. 1.18.) of the <hi>Vine and Branches,</hi> (St. John 15.1.) of the <hi>Soul and Body,</hi> of <hi>the Husband and Wife,</hi> (Eph. 5.23.) and finally, <hi>of God and our Bleſſed Saviour,</hi> (John 17.) Or why ſhould it be called a <hi>Myſtery</hi> by St. <hi>Paul,</hi> (Eph. 5.32.) if there was not ſomething in it, that is above our humane Underſtanding?</p>
+            <p>And hence it is, that in the Meditation upon thoſe Effects, which may proceed from ſuch a perfect Sympathy, and an entire Conſent of Will with God, we run our ſelves, indeed, into the moſt Delightful, but <hi>Indiſtinct</hi> Imaginations.</p>
+            <p>Shall we not, then, <hi>Eſcape the Corruptions of the World?</hi> Shall we not forbear, or do, or ſuffer any thing, that we may Entitle our ſelves to theſe <hi>ex<g ref="char:EOLhyphen"/>ceeding great and precious Promiſes.</hi>
+            </p>
+            <p>Are our Vices of Ineſtimable Value? Are our Corruptions ſo Amiable, ſo Neceſſary to us, that nothing will perſwade us to let them go? Shall theſe Unequal, Allayed, Deceitful, Tranſient, Mixt, Unſatisfactory Pleaſures, be put in the Balance, with a <hi>Crown of Glory,</hi> (1 Pet. 5.4.) <hi>an Incorrupti<g ref="char:EOLhyphen"/>ble Inheritance,</hi> an Everlaſting Kingdom? (1 Pet. 1.4.)</p>
+            <pb n="29" facs="tcp:94736:14"/>
+            <p>Shall a Man be Content to loſe his Intereſt in an Eternal Good, and the Greateſt too that he is capable of Receiving, that he may only enjoy the Deluſions of a Frenzy, or the Pleaſures of a Dream for the preſent?</p>
+            <p>Are not ſuch Proceedings againſt our Common Senſe? Are they not fooliſh even to Deriſion?</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>SE.</hi>
+            </p>
+            <p>Let us be perſwaded then, to ſubmit to the Evidence of Reaſon, and ſacrifice our Vices to the Conviction of our Conſciences. How can we enough Adore the Goodneſs of God, who has allured us by <hi>exceeding great and precious Promiſes,</hi> to the Obedience of thoſe Commands, which are themſelves our greateſt Good? Who has made thoſe things our Duty, which alſo fit us for the true Enjoyment of thoſe Rewards, which are an<g ref="char:EOLhyphen"/>nexed to our Obedience?</p>
+            <p>Finally, Since our Religion is our Intereſt, and the Rewards propoſed are ſo tranſcendent, ſo much greater than we our ſelves could have deſi<g ref="char:EOLhyphen"/>red, I hope we are all Reſolved, <hi>to eſcape the Corrup<g ref="char:EOLhyphen"/>tions of the World, that we may partake of the Na<g ref="char:EOLhyphen"/>ture of God.</hi>
+            </p>
+            <pb n="30" facs="tcp:94736:15"/>
+            <p>We cannot be happy ſo long as our Diſpoſiti<g ref="char:EOLhyphen"/>ons are Contrary to His; ſo long as we are diſ<g ref="char:EOLhyphen"/>joined and ſeparate from our Principle.</p>
+            <p>There is nothing here below, that is large enough to fill the Capacity of a Man. Nothing but God, the Inexhauſtible Fountain of Good, can yield us a ſteady and a conſtant Satisfaction. But in him there are Infinite Varieties of Inde<g ref="char:EOLhyphen"/>fectible Treaſures; His Favour will afford us freſh Delights, and preſerve us in a perfect State Everlaſting Happineſs.</p>
+            <p>
+               <hi>To which, may God, of his Infinite Mercy, bring us all, for Jeſus Chriſt his Sake, the Righteous; To whom, with the Father, and the Holy Ghoſt, be all Honour, Glory, and Praiſe, now, and for evermore,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94736:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
